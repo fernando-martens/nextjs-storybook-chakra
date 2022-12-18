@@ -2,6 +2,10 @@
 
 Template com sidebar totalmente resposiva para o mobile
 
+
+![Template sidebar ](https://user-images.githubusercontent.com/63741837/208322596-2724bcf1-8146-4010-944f-306d47d40724.gif)
+
+
 ## Como usar esse template ?
 
 > **Warning**
